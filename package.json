@@ -1,11 +1,12 @@
 {
-  "name": "upgrade-hub-bmw-css",
-  "description": "CSS exercise",
-  "repository": {},
+  "name": "bmw-es-home",
+  "description": "BMW ES Home exercise",
+  "repository": "github:jdvivar/bmw-es-home",
   "scripts": {
     "start": "es-dev-server --open --watch"
   },
-  "license": "ISC",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "Daniel Vivar (http://danielvivar.com/)",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.12.1",
     "es-dev-server": "1.42.1"
