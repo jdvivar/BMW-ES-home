@@ -39,7 +39,7 @@ header {
 .hero {
     background-image:
         linear-gradient(to top,rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.3)),
-        url('/images/serie2-hero.jpg');
+        url('/assets/serie2-hero.jpg');
     background-position: center;
     background-size: cover;
     height: 600px;
