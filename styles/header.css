@@ -6,6 +6,7 @@
     align-items: center;
     border-bottom: 1px solid var(--translucent-white);
     transition: all .9s;
+    z-index: 1;
 }
 
 .wrapper-lema {

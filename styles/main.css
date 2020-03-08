@@ -1,3 +1,5 @@
 @import './utils.css';
+@import './general.css';
 @import './header.css';
 @import './models.css';
+@import './services.css';

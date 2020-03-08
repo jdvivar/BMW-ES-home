@@ -1,0 +1,8 @@
+.services-wrapper {
+  display: flex;
+  margin-top: 100px;
+}
+
+.services-wrapper .card:not(:last-child) {
+  margin-right: 20px;
+}
