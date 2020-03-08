@@ -12,12 +12,21 @@
   text-align: center;
   background-color: #eee;
   color: var(--disabled-black);
-  padding: 40px;
+  padding: 50px;
   margin-right: 10px;
   flex-grow: 1;
   flex-basis: 0;
+  transition: var(--default-transition);
+}
+
+.icons-wrapper li:hover {
+  background-color: var(--grey);
 }
 
 .icons-wrapper li:last-child {
   margin-right: 0;
+}
+
+.icons-wrapper .svg-inline--fa {
+  margin-bottom: 20px;
 }
