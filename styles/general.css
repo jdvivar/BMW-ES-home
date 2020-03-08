@@ -34,22 +34,22 @@
   bottom: 15px;
 }
 
-.card-links a {
+.card-link {
   transition: var(--default-transition);
   font-weight: 600;
 }
 
-.card-links a::before {
+.card-link::before {
   content: '>';
   position: relative;
   right: 3px;
   transition: var(--default-transition);
 }
 
-.card-links a:hover {
+.card-link:hover {
   color: var(--blue);
 }
 
-.card-links a:hover::before {
+.card-link:hover::before {
   right: 0;
 }
