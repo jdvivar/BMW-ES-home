@@ -1,0 +1,13 @@
+{
+  "name": "upgrade-hub-bmw-css",
+  "description": "CSS exercise",
+  "repository": {},
+  "scripts": {
+    "start": "es-dev-server --open --watch"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "es-dev-server": "1.42.1"
+  }
+}
