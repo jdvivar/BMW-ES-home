@@ -25,4 +25,4 @@ It's just an exercise for HTML & CSS web development alumni to re-create BMW ES 
 
 Screenshot of the original site on Marh 3rd 2020
 
-![screenshot](images/Screenshot_2020-03-07&#32;BMW&#32;España&#32;-&#32;Web&#32;Oficial.jpg)
+![screenshot](assets/Screenshot_2020-03-07&#32;BMW&#32;España&#32;-&#32;Web&#32;Oficial.jpg)
