@@ -6,7 +6,7 @@
     "start": "parcel serve index.html --open",
     "build": "parcel build index.html"
   },
-  "license": "GPL-3.0",
+  "license": "MIT",
   "author": "Daniel Vivar (http://danielvivar.com/)",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.12.1"
